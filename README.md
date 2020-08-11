@@ -30,7 +30,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/python.svg" />]
 [<img align="left" alt="Excel" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/microsoftexcel.svg" />]
-[<img align="left" alt="Power BI" width="26px" src="hhttps://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/powerbi.svg" />]
+[<img align="left" alt="Power BI" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/powerbi.svg" />]
 [<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/r.svg" />]
 [<img align="left" alt="R Studio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/rstudio.svg" />]
 
