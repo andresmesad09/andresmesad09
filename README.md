@@ -1,6 +1,6 @@
-### Hi there, I´m Andres - aka Mesa!  👋
+### Hi there, I´m Andres - aka Mesa!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## I´m a husband, business administrator, and a Data Science and Backend student! 
+## I´m a husband, business administrator, and a Data Science - Backend student! 
 
 - 🔭 I’m currently working on improving my developer skills
 - 🌱 I’m currently learning Python 🐍 and everything 🤣 
@@ -40,6 +40,10 @@
 
 <br />
 <br />
+---
+📊 **This week I spent my time on**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
