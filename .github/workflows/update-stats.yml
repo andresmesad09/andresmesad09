@@ -14,6 +14,6 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN}}
+          GH_TOKEN: ${{ github.token}}
           USERNAME: andresmesad09
           SHOW_TITLE: false
