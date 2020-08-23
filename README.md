@@ -3,7 +3,7 @@
 ## I´m a husband, business administrator, and a Data Science - Backend student! 
 
 - 🔭 I’m currently working on improving my developer skills
-- 🌱 I’m currently learning Python 🐍 and everything 🤣 
+- 🌱 I’m currently learning Python 🐍 JavaScript and everything 🤣 
 - 💬 Ask me about Excel and Python
 - ⚡ Fun fact: I love to play soccer ⚽ Barcelona and Atletico Nacional Fan!
 - 🥅 2020 Goals: Improve my Data Science and backend skills
