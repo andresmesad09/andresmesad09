@@ -46,9 +46,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-SQL         15 hrs 25 mins  ████████████████████████▒   97.46 % 
+SQL         15 hrs 25 mins  ████████████████████████▒   97.70 % 
 Batchfile   21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-Python      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ```
 <!--END_SECTION:waka-->
 
