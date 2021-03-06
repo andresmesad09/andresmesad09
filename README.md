@@ -46,7 +46,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-SQL     34 hrs 47 mins  █████████████████████████   99.99 % 
+SQL     34 hrs 25 mins  █████████████████████████   99.37 % 
+Other   13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 ```
 <!--END_SECTION:waka-->
 
