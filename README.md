@@ -3,10 +3,10 @@
 ## I´m a husband, business administrator, Data Science and Backend student! 
 
 - 🔭 I’m currently working on improving my developer and data science skills
-- 🌱 I’m currently learning more Python 🐍 JavaScript and R. I like to learn every day.  
-- 💬 Ask me about Excel, Python 🐍 and R. Coming soon: JavaScript. 
+- 🌱 I’m currently learning more Python 🐍  Bash and SQL. I like to learn every day.  
+- 💬 Ask me about Excel, Python 🐍 and SQL. Coming soon: Bash. 
 - ⚡ Fun fact: I love to play soccer ⚽ Barcelona and Atletico Nacional Fan!
-- 🥅 2020 Goals: Initiate my portfolio website.
+- 🥅 2022 Goals: Learning about Data Engineering.
 
 ---
 
