@@ -39,7 +39,7 @@ me.say_hi()
 ---
 <br />
 
-## Lastest Medium Articles
+## Latest Medium Articles
 
 Follow me in [Medium][medium]
 
