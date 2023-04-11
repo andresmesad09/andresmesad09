@@ -1,10 +1,13 @@
-<h2> Hi, I'm Andrés Mesa from 🇨🇴!  <img src="https://media.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif" width="100"></h2>
+<img src="https://media.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif" width="100">
+<h2> Hi, I'm Andrés Mesa from 🇨🇴!  </h2>
 
 <p>Data Analyst and Report Developer at CoinSquare</p>
+<br />
 
 ---
 
-## <img src="https://media.giphy.com/media/fOoAQibaklcg4RZfRB/giphy.gif" width="50"> A little more about me...
+##  A little more about me...
+<img src="https://media.giphy.com/media/fOoAQibaklcg4RZfRB/giphy.gif" width="100">
 
 ```python
 #!/usr/bin/python
