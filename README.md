@@ -1,48 +1,57 @@
-### Hi there, I´m Andres - aka Mesa!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h2> Hi, I'm Andrés Mesa from 🇨🇴!  <img src="https://media.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif" width="100"></h2>
 
-## I´m a husband, business administrator, Data Science and Backend student! 
-
-- 🔭 I’m currently working on improving my developer and data science skills
-- 🌱 I’m currently learning more Python 🐍  Bash and SQL. I like to learn every day.  
-- 💬 Ask me about Excel, Python 🐍 and SQL. Coming soon: Bash. 
-- ⚡ Fun fact: I love to play soccer ⚽ Barcelona and Atletico Nacional Fan!
-- 🥅 2022 Goals: Learning about Data Engineering.
+<p>Data Analyst and Report Developer at CoinSquare</p>
 
 ---
 
-### Connect with me:
+## <img src="https://media.giphy.com/media/fOoAQibaklcg4RZfRB/giphy.gif" width="50"> A little more about me...
+
+```python
+#!/usr/bin/python
 
 
-[<img align="left" alt="andresmesad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="andresmesad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="andresmesad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+class DataAnalyst:
+
+    def __init__(self):
+        self.name = "Andres Mesa"
+        self.role = "Data Analyst"
+        self.language_spoken = ["es_ES", "en_US"]
+        self.code = ['python', 'sql', 'bash']
+        self.tools = ['DBT', 'Docker', 'Power BI', 'Metabase', 'Excel']
+
+    def say_hi(self):
+        print("""
+        Thanks for dropping by.
+        I hope you find some of my work interesting.
+        Don't forget to follow me for more
+        """)
+
+
+me = DataAnalyst()
+me.say_hi()
+
+```
+
+[![Twitter: andresmesad](https://img.shields.io/twitter/follow/AndresMesaD?style=social)][twitter]
+[![Linkedin: AndresMesaD](https://img.shields.io/badge/-andresmeasd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andresmesad/)][linkedin]
+[![GitHub AndresMesaD09](https://img.shields.io/github/followers/andresmesad09?label=follow&style=social)][github]
+
+---
+<br />
+
+## Lastest Medium Articles
+
+Follow me in [Medium][medium]
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@andresf.mesad/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@andresf.mesad/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@andresf.mesad/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@andresf.mesad/1" alt="Recent Article 1"> 
 
 <br />
 
 ---
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/python.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/javascript.svg" />
-<img align="left" alt="Excel" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/microsoftexcel.svg" />
-<img align="left" alt="Power BI" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/powerbi.svg" />
-<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/r.svg" />
-<img align="left" alt="R Studio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/rstudio.svg" />
-
-
-
-<br />
 <br />
 
----
-
-### 📊 This week I spent my time on
+## 📊 This week I spent my time on
 
 <!--START_SECTION:waka-->
 
@@ -55,10 +64,17 @@ Other        24 mins         ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ---
+<br />
 
-<img align="left" alt="andresmesad09's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=andresmesad09&show_icons=true&hide_border=true" />
+## GitHub Stats
+
+  <img align="left" alt="Andres Mesad's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=andresmesad09&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+<br />
 
 
 [twitter]: https://twitter.com/andresmesad
 [instagram]: https://instagram.com/andresmesad
-[linkedin]: https://linkedin.com/in/andrés-felipe-mesa-david-15509510a/
+[linkedin]: https://www.linkedin.com/in/andresmesad/
+[github]: https://github.com/andresmesad09
+[medium]: https://medium.com/@andresf.mesad
