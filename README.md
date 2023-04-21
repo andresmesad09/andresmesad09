@@ -59,11 +59,10 @@ Follow me in [Medium][medium]
 <!--START_SECTION:waka-->
 
 ```text
-SQL          13 hrs 1 min    ███████████████░░░░░░░░░░   60.49 %
-Python       4 hrs 51 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.58 %
-Terraform    2 hrs 36 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.14 %
-YAML         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-Other        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+SQL          16 hrs 21 mins  █████████████████░░░░░░░░   67.55 %
+Python       4 hrs 20 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.95 %
+Terraform    2 hrs 36 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 %
+Other        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
 ```
 
 <!--END_SECTION:waka-->
