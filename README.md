@@ -59,7 +59,9 @@ Follow me in [Medium][medium]
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+SQL      58 mins         ██████████████████████░░░   87.46 %
+Python   5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
+YAML     3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
 ```
 
 <!--END_SECTION:waka-->
