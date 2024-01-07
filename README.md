@@ -59,9 +59,9 @@ Follow me in [Medium][medium]
 <!--START_SECTION:waka-->
 
 ```txt
-SQL      7 hrs 23 mins   ████████████████████████▓   98.13 %
-Python   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-YAML     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+SQL      11 hrs 35 mins  ████████████████████████▒   96.95 %
+Python   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+YAML     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
