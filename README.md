@@ -59,11 +59,11 @@ Follow me in [Medium][medium]
 <!--START_SECTION:waka-->
 
 ```txt
-SQL                        17 hrs 59 mins  ████████████████████░░░░░   80.10 %
-Python                     2 hrs 39 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
-YAML                       1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
-Docker                     28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-Nginx configuration file   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+SQL      13 hrs 15 mins  █████████████████▓░░░░░░░   70.80 %
+Python   3 hrs 58 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.18 %
+YAML     50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+Other    13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Text     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 ```
 
 <!--END_SECTION:waka-->
