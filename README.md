@@ -59,8 +59,7 @@ Follow me in [Medium][medium]
 <!--START_SECTION:waka-->
 
 ```txt
-SQL    14 mins         ███████████████████▓░░░░░   78.81 %
-YAML   4 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.19 %
+SQL   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
