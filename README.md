@@ -59,11 +59,11 @@ Follow me in [Medium][medium]
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 27 mins         ███████████████▓░░░░░░░░░   63.06 %
-Python       54 mins               █████▓░░░░░░░░░░░░░░░░░░░   23.13 %
-CSS          22 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
-HTML         6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-Markdown     2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Python       2 hrs 6 mins          ████████▒░░░░░░░░░░░░░░░░   33.34 %
+TypeScript   1 hr 52 mins          ███████▒░░░░░░░░░░░░░░░░░   29.48 %
+JavaScript   1 hr 39 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.26 %
+CSS          22 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
+HTML         15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
 ```
 
 <!--END_SECTION:waka-->
