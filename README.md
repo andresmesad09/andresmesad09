@@ -59,9 +59,9 @@ Follow me in [Medium][medium]
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   51 mins               ████████████████▓░░░░░░░░   66.47 %
-Python       21 mins               ███████░░░░░░░░░░░░░░░░░░   28.18 %
-HTML         4 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+JavaScript   40 mins               ██████████████████████▒░░   88.83 %
+HTML         3 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
+Python       1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
 ```
 
 <!--END_SECTION:waka-->
