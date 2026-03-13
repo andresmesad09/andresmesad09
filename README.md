@@ -59,8 +59,7 @@ Follow me in [Medium][medium]
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   40 mins               ███████████████████████░░   91.45 %
-HTML         3 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
