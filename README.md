@@ -59,8 +59,8 @@ Follow me in [Medium][medium]
 <!--START_SECTION:waka-->
 
 ```txt
-Python   1 hr 6 mins           █████████████████████▒░░░   85.73 %
-SQL      11 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.27 %
+Python   1 hr 39 mins          ██████████████████████▒░░   89.98 %
+SQL      11 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
 ```
 
 <!--END_SECTION:waka-->
