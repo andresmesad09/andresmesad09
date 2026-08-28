@@ -59,8 +59,7 @@ Follow me in [Medium][medium]
 <!--START_SECTION:waka-->
 
 ```txt
-Python   3 hrs 48 mins         █████████████████████████   99.66 %
-CSV      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Python   3 hrs 25 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
