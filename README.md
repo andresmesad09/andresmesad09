@@ -59,11 +59,11 @@ Follow me in [Medium][medium]
 <!--START_SECTION:waka-->
 
 ```txt
-Python           3 hrs 31 mins         ███████████████▓░░░░░░░░░   62.58 %
-Java             1 hr 33 mins          ███████░░░░░░░░░░░░░░░░░░   27.87 %
-Markdown         21 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
-JSON             8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-Git Config       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Python           3 hrs 21 mins         ████████████████░░░░░░░░░   63.40 %
+Java             1 hr 34 mins          ███████▒░░░░░░░░░░░░░░░░░   29.87 %
+Markdown         10 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+JSON             8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Git Config       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
